@@ -1,0 +1,9 @@
+Apple documentation
+https://developer.apple.com/documentation/uikit/uiapplication/2806815-supportsalternateicons
+
+Steps
+1. Generate 120px and 180px app icons and and name it IconName@2x and IconName@3x (https://www.appicon.co/#app-icon)
+    eg: Appstore@2x and Appstore@3x
+2. Add the icons to a Subfolder within the project
+3. Register the icon names in the Info.plist file. (omit @2x and @3x in the icon name)
+4. Set app icon to nil to set the default app icon
