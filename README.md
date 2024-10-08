@@ -33,3 +33,11 @@ To follow this guide, ensure you have the following:
 Implementing dynamic app icons enhances user engagement and allows for greater customization. By following this guide, you can easily incorporate this feature into your iOS application.
 
 For more detailed information, please refer to the [official Apple documentation](https://developer.apple.com/documentation/uikit/uiapplication/1623097-setalternateicon).
+
+## Additional Resources
+
+You can read my full article on Medium for an in-depth exploration of this topic: [Dynamic App Icons in iOS: A Comprehensive Guide](https://medium.com/@husnainali593/dynamic-app-icons-in-ios-a-comprehensive-guide-4da465d26b08).
+
+Creating better code is something we all strive for. I hope this code has been helpful to you!
+
+If you’d like to connect and improve your Swift knowledge, you can find me on [LinkedIn here](https://www.linkedin.com/in/husnain-ali-819007108/). For any additional tips or feedback, feel free to reach out to me at husnainali593@gmail.com. Also, take a look at my portfolio at [ihusnainalii.github.io](https://ihusnainalii.github.io/).
